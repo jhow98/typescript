@@ -1,0 +1,14 @@
+{
+  "name": "typescriptnode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "sucrase-node src/index.ts",
+    "build": ""
+  },
+  "devDependencies": {
+    "sucrase": "^3.10.1",
+    "typescript": "^3.4.5"
+  }
+}
